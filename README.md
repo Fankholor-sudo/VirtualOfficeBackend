@@ -57,6 +57,7 @@ allowing them to create and manage office space seamlessly.
 3. Run locally:
    * browser local url http://localhost:3000
    * Android mobile local url http://10.0.2.2:3000
+   * Install <b>SQLite3 Editor</b> extension on VSCode, to be able to view the local database.
    ```sh
    npm run start
    ```
